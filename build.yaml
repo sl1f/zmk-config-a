@@ -227,6 +227,7 @@ include:
     shield: lily58_left_peripheral nice_oled
     cmake-args: -DCONFIG_ZMK_SLEEP=y -DCONFIG_ZMK_IDLE_TIMEOUT=60000
     artifact-name: nice_lily58_left_peripheral_oled
+    ### DOES THIS TRIGGER A REBUILD?
   ### LILY58 END ###
 
   ### SPLITKB AURORA SOFLE START ###
